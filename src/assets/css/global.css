@@ -1,0 +1,50 @@
+:root {
+    --color-background:#303965;
+    --color-background-nav:#ffffff;
+    --color-background-item:#ffffff;
+    --color-text-light:#EDEDED;
+    --color-text-title:#f0680a;
+    --color-text-score:#f0680a;
+    --color-text-author:#818181;
+
+    --font-text-author: 14px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+html,
+body {
+    background-color: var(--color-background);
+}
+
+a {
+    color: #303965;
+    text-decoration: none;
+    transition: 0.2s opacity;
+}
+
+a:hover {
+    opacity: 0.8;
+}
+
+.container {
+    width: 90%;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: calc(100vh - 60px);
+}
+
+h1 {
+    color: var(--color-text-title);
+    margin-top: 40px;
+    font-size: 30px;
+}
