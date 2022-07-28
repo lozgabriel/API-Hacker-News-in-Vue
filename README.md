@@ -1,7 +1,7 @@
 # Hacker News API
 
 ## Descrição do Projeto
-<p align="center">Projeto em Vue onde é consumida a API Hacker News e apresentado seus dados em uma SPA.</p>
+<p>Projeto em Vue onde é consumida a API Hacker News e apresentado seus dados em uma SPA.</p>
 
 ## Project setup
 ```
