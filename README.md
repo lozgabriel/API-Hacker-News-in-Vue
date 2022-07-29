@@ -2,6 +2,7 @@
 
 ## Descrição do Projeto
 <p>Projeto em Vue onde é consumida a API Hacker News e apresentado seus dados em uma SPA.</p>
+Live do projeto: https://lozgabriel.github.io/API-Hacker-News-in-Vue/
 
 ## Project setup
 ```
